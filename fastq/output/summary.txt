@@ -1,0 +1,5 @@
+Filename	Total	WT	Insertion	Deletion	Substitution	Complex
+1.fastqjoin	2877	2178	637	0	62	0
+1.fastqjoin	1	0.7570	0.2214	0.0000	0.0216	0.0000
+2.fastqjoin	7676	5148	2313	13	199	3
+2.fastqjoin	1	0.6707	0.3013	0.0017	0.0259	0.0004

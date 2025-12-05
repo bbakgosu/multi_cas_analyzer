@@ -1,0 +1,4 @@
+Target_name	param_1
+Total_reads	WT	Insertion	Deletion	Substitution	Complex
+7676	5148	2313	13	199	3
+1	0.6707	0.3013	0.0017	0.0259	0.0004
